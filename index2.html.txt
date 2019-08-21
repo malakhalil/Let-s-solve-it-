@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Let's solve it</title>
+</head>
+<body>
+<h1>We will solve your problems</h1>
+<p>Your problems will be vanished </p>
+<ul>
+<li>Problem 1</li>
+<li>Problem 2</li>
+<li>Problem 3</li> 
+</ul>
+<img src="images/duck.jpg" alt="duck image" width="200px">
+</body>
+</html>

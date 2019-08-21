@@ -1,0 +1,36 @@
+
+	body{
+
+background-image: url(../images/grey.jpg);
+}
+h1{
+	font-size:50px;
+	color: blue;
+	text-align: center;
+	font-family:Algerian
+
+}
+p{
+	font-family: verdana;
+	font-size: 20px;
+}
+h2{
+	font-size:40px;
+	text-align: center;
+     color:red;
+	font-family:Algerian
+
+}	
+h3{
+	color:green;
+	font-size:30px;
+}
+h3.5{
+	color:white;
+}
+ul{
+	font-size: 30px;
+}
+li{
+	font-size: 20px;
+}
